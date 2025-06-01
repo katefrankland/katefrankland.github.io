@@ -1,11 +1,19 @@
 ---
-title: "katefrankland.github.io"
+title: "Kate Frankland"
+
+image: media/headshot.jpg
+toc: false
+
+about:
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  
+  links:
+    - text: Linkedin
+      href: https://www.linkedin.com/in/kate-frankland-150143331/
+    - text: Github
+      href: https://github.com/katefrankland
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello! My name is Kate Frankland. and I am an Environmental Science student at UC Santa Barbara. I aim to pursue a career in corporate sustainability, contributing to developing solutions that will create positive environmental impacts while meeting business goals. I am interested in how technology and sustainable practices intersect and aim to further my skills in data analytics and geographic information systems (GIS). Outside of academics, I enjoy surfing and ballet!

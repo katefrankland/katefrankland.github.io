@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site"
+  },
+  {
+    "objectID": "Hobbies.html",
+    "href": "Hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Including pictures + info about some of my interests here"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Attaching GIS projects to this page"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "katefrankland.github.io",
+    "title": "Kate Frankland",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! My name is Kate Frankland. and I am an Environmental Science student at UC Santa Barbara. I aim to pursue a career in corporate sustainability, contributing to developing solutions that will create positive environmental impacts while meeting business goals. I am interested in how technology and sustainable practices intersect and aim to further my skills in data analytics and geographic information systems (GIS). Outside of academics, I enjoy surfing and ballet!"
   }
 ]

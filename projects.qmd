@@ -1,0 +1,5 @@
+---
+title: "projects"
+format: html
+---
+- Attaching GIS projects to this page 
