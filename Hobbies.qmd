@@ -3,4 +3,4 @@ title: "Hobbies"
 format: html
 ---
 
-- Including pictures + info about some of my interests here
+-   Including pictures + info about some of my interests here

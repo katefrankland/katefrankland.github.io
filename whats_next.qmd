@@ -1,0 +1,90 @@
+---
+title: "What's Next?"
+format: html
+page-layout: article
+toc: true
+editor: source
+# listing:
+#   contents: whats_next
+#   sort: false
+#   type: grid
+#   image-align: right
+#   max-description-length: 350
+#   date-format: medium
+#   categories: false
+---
+
+This next year is going to be full of exciting changes! I’m really looking forward to what’s ahead and have created an interactive map showing the places I’ll be traveling to in 2025 and 2026.
+
+Right now, I’m in Santa Barbara for school. This summer (2025), I’ll be moving to Redlands, California for an internship at ESRI. Afterward, I’ll return to Santa Barbara for Fall Quarter, and in February 2026, I’ll head to the University of Queensland in Brisbane, Australia to finish my undergraduate education. I’ll come back to Santa Barbara for graduation, and then hope to spend the next summer job hunting and exploring in New York City — a place I’ve dreamed of living since I was little. It is going to be completely out of my comfort zone, but 'm going to push through this and live life to the fullest while I still can. 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+library(leaflet.extras)
+library(dplyr)
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+#  travel data
+travel_points <- data.frame(
+  place = c(
+    "Santa Barbara, California",
+    "Redlands, California",
+    "University of Queensland, Australia",
+    "New York City, New York",
+    "Granada Hills, California"  # home
+  ),
+  lat = c(
+    34.4208,
+    34.0556,
+    -27.4975,
+    40.7128,
+    34.2794  # home
+  ),
+  lon = c(
+    -119.6982,
+    -117.1825,
+    153.0137,
+    -74.0060,
+    -118.5022  # home
+  ),
+  region = c(
+    "USA", "USA", "Australia", "USA", "Home"
+  )
+)
+
+# Create a custom home icon
+home_icon <- makeAwesomeIcon(
+  icon = 'home', markerColor = 'lightblue', iconColor = 'white', library = 'fa'
+)
+
+# Create the map with Granada Hills as home 
+leaflet(travel_points) %>%
+  addProviderTiles(providers$OpenStreetMap) %>%
+  # Add circle markers for all except home
+  addCircleMarkers(
+    data = subset(travel_points, region != "Home"),
+    ~lon, ~lat,
+    fillColor = "hotpink",
+    color = "white",
+    radius = 6,
+    weight = 1,
+    fillOpacity = 0.9,
+    popup = ~paste0("<strong>", place, "</strong>"),
+    clusterOptions = markerClusterOptions()
+  ) %>%
+  # Add the home icon for Granada Hills
+  addAwesomeMarkers(
+    data = subset(travel_points, region == "Home"),
+    ~lon, ~lat,
+    icon = home_icon,
+    popup = ~paste0("<strong>Home: ", place, "</strong>")
+  )
+
+
+
+```
+
+
+
