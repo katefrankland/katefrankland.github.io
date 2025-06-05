@@ -1,6 +1,52 @@
 ---
 title: "Hobbies"
-format: html
+description: "My favorite running and hiking trails in Santa Barbara — and some concerts!"
+toc: true
+filters:
+  - lightbox
+lightbox: auto
 ---
 
--   Including pictures + info about some of my interests here
+Some of my favorite things to do are explore the different hiking trails around Santa Barbara and go on runs. My favorite hikes include the Gaviota Wind Caves, Tangerine Falls, and the Montecito Hot Springs Trail. Living in Isla Vista makes it super convenient to run to the beach, and I often frequent the North Campus Open Space trail that leads to the bluffs at Ellwood. I try to run with friends whenever they're around—it makes it so much more fun, and a little competitive. 
+I'm currently training for the Malibu Half Marathon in November, and I hope to run a full marathon in 2026! 
+
+## Running and Hiking
+
+::: {layout="[[1, 1, 1]]"}
+
+![Gaviota Wind Caves](media/gaviota_wind_cavesJPG.JPG){.lightbox group="hiking" description="Gaviota Wind Caves!" width="200"}
+
+![Gaviota Wind Caves](media/wind_caves.JPG){.lightbox group="hiking" description="Gaviota Wind Caves, another angle!" width="200"}
+
+![North Campus Open Space Pond Trail](media/pond_trailJPG.JPG){.lightbox group="hiking" description="North Campus Open Space Pond Trail!" width="200"}
+
+![Cold Springs Loop](media/cold_springs_loop.jpg){.lightbox group="hiking" description="Cold Springs Loop hike!" width="200"}
+
+![Running Buddies](media/running.jpg){.lightbox group="hiking" description="Run with Erica!" width="200"}
+
+![Sunset Run to Devereux](media/devereux.JPG){.lightbox group="hiking" description="Sunset Run to Devereux!" width="200"}
+
+:::
+
+---
+
+## Concerts
+
+Going to concerts with friends is one of my favorite things to do! I love the sense of community at live shows. The environment is always so fun and welcoming. Below are some of my favorite concerts that I’ve been to with family and friends.
+Some of my bucket list artists to see live include Kacey Musgraves, Taylor Swift, and Charli XCX.
+
+::: {layout="[[1, 1, 1]]"}
+
+![Ed Sheeran at SoFi](media/edsheeran1.JPG){.lightbox group="concerts" description="Ed Sheeran at SoFi!" width="200"}
+
+![Ed Sheeran at SoFi](media/edsheeran2.JPG){.lightbox group="concerts" description="Another angle of Ed Sheeran at SoFi!" width="200"}
+
+![John Mayer at the Forum](media/johnmayer.jpg){.lightbox group="concerts" description="John Mayer at the Forum!" width="200"}
+
+![Luke Bryan at the Forum](media/lukebryan.jpg){.lightbox group="concerts" description="Luke Bryan at the Forum!" width="200"}
+
+![Morgan Wade at the Troubadour](media/morganwade.jpg){.lightbox group="concerts" description="Morgan Wade at the Troubadour!" width="200"}
+
+![Brothers Osborne at the Greek Theater](media/brothersosborne.jpg){.lightbox group="concerts" description="Brothers Osborne at the Greek!" width="200"}
+
+:::
