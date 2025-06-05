@@ -1,30 +1,191 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kate Frankland",
     "section": "",
-    "text": "About this site"
+    "text": "Hello! My name is Kate Frankland. and I am an Environmental Science student at UC Santa Barbara. I aim to pursue a career in corporate sustainability, contributing to developing solutions that will create positive environmental impacts while meeting business goals. I am interested in how technology and sustainable practices intersect and aim to further my skills in data analytics and geographic information systems (GIS)."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "On this page, you will find a selection of my past coursework from geography and environmental studies classes, covering topics from GIS and environmental justice to fieldwork and data storytelling.\n\n \n\nGEOG 176C – Mapping Nitrate Contamination in Fresno County\n\n\n\nThis final project for Geography 176C is a spatial analysis of nitrate contamination in Fresno County domestic wells. This project applies kriging, spatial joins, and hot spot analysis to examine environmental justice concerns in relation to cropland proximity.\n\n\n\n\n\nGEOG 176B – Transportation Planning for the Olympics\n\n\n\nThis final project for my Geography 176B course focused on Los Angeles’ transportation system, and if it is capable to handle the incoming population flux for the 2028 Olympics.\n\n\n\n \n\nES 40 – Tidepooling Field Guide\n\n\n\nAn illustrated guide to tidepooling near UCSB, created for my ES 40 course. The guide highlights species identification and how to properly tidepool!"
+  },
+  {
+    "objectID": "whats_next.html",
+    "href": "whats_next.html",
+    "title": "What’s Next?",
+    "section": "",
+    "text": "This next year is going to be full of exciting changes! I’m really looking forward to what’s ahead and have created an interactive map showing the places I’ll be traveling to in 2025 and 2026.\nRight now, I’m in Santa Barbara for school. This summer (2025), I’ll be moving to Redlands, California for an internship at ESRI. Afterward, I’ll return to Santa Barbara for Fall Quarter, and in February 2026, I’ll head to the University of Queensland in Brisbane, Australia to finish my undergraduate education. I’ll come back to Santa Barbara for graduation, and then hope to spend the next summer job hunting and exploring in New York City — a place I’ve dreamed of living since I was little. It is going to be completely out of my comfort zone, but am going to push through this and live life to the fullest while I still can."
+  },
+  {
+    "objectID": "pets.html",
+    "href": "pets.html",
+    "title": "pets",
+    "section": "",
+    "text": "I love animals and am lucky to have a few in my life! Back home, my family has a beautiful Belgian Malinois-Shepherd mix named Sadie, and a very fluffy cat named Mittens. At my college house, my roommates and I have a cat named Bear—he’s incredibly comforting and always around when we need a little extra love.\n\n\n\n\n\n\n\n\n\nSadie on a walk!\n\n\n\n\n\n\n\nSadie and her favorite toy!\n\n\n\n\n\n\n\nSadie stopping to smell some flowers!\n\n\n\n\n\n\n\n\n\nMittens, my family cat!\n\n\n\n\n\n\n\nMy roommate’s cat, Bear!!\n\n\n\n\n\n\n\nMy roommate’s cat, Bear!!\n\n\n\n\n\n\n\n\nSadie on a walk!\nSadie and her favorite toy!\nSadie stopping to smell some flowers!\nMittens, my family cat!\nMy roommate’s cat, Bear!!\nMy roommate’s cat, Bear!!"
   },
   {
     "objectID": "Hobbies.html",
     "href": "Hobbies.html",
     "title": "Hobbies",
     "section": "",
-    "text": "Including pictures + info about some of my interests here"
+    "text": "Some of my favorite things to do are explore the different hiking trails around Santa Barbara and go on runs. My favorite hikes include the Gaviota Wind Caves, Tangerine Falls, and the Montecito Hot Springs Trail. Living in Isla Vista makes it super convenient to run to the beach, and I often frequent the North Campus Open Space trail that leads to the bluffs at Ellwood. I try to run with friends whenever they’re around—it makes it so much more fun, and a little competitive. I’m currently training for the Malibu Half Marathon in November, and I hope to run a full marathon in 2026!"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "projects",
+    "objectID": "baking.html",
+    "href": "baking.html",
+    "title": "Baking",
     "section": "",
-    "text": "Attaching GIS projects to this page"
+    "text": "Baking is one of my favorite hobbies; I try to make my house a batch of some type of treat every couple of weeks. Below, I put a picture of each of my roommate’s favorite treat that I have made.\n\n\n\n\n\n\n\n\n\nAmanda’s Favorite Chocolate Cake with Vanilla Buttercream!\n\n\n\n\n\n\n\nBrenna’s Favorite Chocolate Chip Cookies!\n\n\n\n\n\n\n\nHilyan’s Favorite Brown Butter Toffee Chip Cookies!\n\n\n\n\n\n\n\n\n\nErica’s Favorite Pumpkin Muffins!\n\n\n\n\n\n\n\nNiyaz’s Favorite Smores Cookies!\n\n\n\n\n\n\n\n\nAmanda’s Favorite Chocolate Cake with Vanilla Buttercream!\nBrenna’s Favorite Chocolate Chip Cookies!\nHilyan’s Favorite Brown Butter Toffee Chip Cookies!\nErica’s Favorite Pumpkin Muffins!\nNiyaz’s Favorite Smores Cookies!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kate Frankland",
+    "objectID": "Hobbies.html#running-and-hiking",
+    "href": "Hobbies.html#running-and-hiking",
+    "title": "Hobbies",
+    "section": "Running and Hiking",
+    "text": "Running and Hiking\n\n\n\n\n\n\n\n\n\nGaviota Wind Caves\n\n\n\n\n\n\n\nGaviota Wind Caves\n\n\n\n\n\n\n\nNorth Campus Open Space Pond Trail\n\n\n\n\n\n\n\n\n\nCold Springs Loop\n\n\n\n\n\n\n\nRunning Buddies\n\n\n\n\n\n\n\nSunset Run to Devereux"
+  },
+  {
+    "objectID": "Hobbies.html#concerts",
+    "href": "Hobbies.html#concerts",
+    "title": "Hobbies",
+    "section": "Concerts",
+    "text": "Concerts\nGoing to concerts with friends is one of my favorite things to do! I love the sense of community at live shows. The environment is always so fun and welcoming. Below are some of my favorite concerts that I’ve been to with family and friends. Some of my bucket list artists to see live include Kacey Musgraves, Taylor Swift, and Charli XCX.\n\n\n\n\n\n\n\n\n\nEd Sheeran at SoFi\n\n\n\n\n\n\n\nEd Sheeran at SoFi\n\n\n\n\n\n\n\nJohn Mayer at the Forum\n\n\n\n\n\n\n\n\n\nLuke Bryan at the Forum\n\n\n\n\n\n\n\nMorgan Wade at the Troubadour\n\n\n\n\n\n\n\nBrothers Osborne at the Greek Theater\n\n\n\n\n\n\n\n\nGaviota Wind Caves\nGaviota Wind Caves\nNorth Campus Open Space Pond Trail\nCold Springs Loop\nRunning Buddies\nSunset Run to Devereux\nEd Sheeran at SoFi\nEd Sheeran at SoFi\nJohn Mayer at the Forum\nLuke Bryan at the Forum\nMorgan Wade at the Troubadour\nBrothers Osborne at the Greek Theater"
+  },
+  {
+    "objectID": "projects.html#geography-176c-gis-final-project",
+    "href": "projects.html#geography-176c-gis-final-project",
+    "title": "Projects",
+    "section": "{{< fa map >}} Geography 176C GIS Final Project",
+    "text": "{{&lt; fa map &gt;}} Geography 176C GIS Final Project\n\n\n\n\n\n\n\n\n\n\n\nFor my Geography 176C capstone I used ArcGIS Pro to examine nitrate contamination in Fresno-County domestic wells relative to almond- and grape-cropland buffers. Spatial joins, kriging interpolation, and hot-spot analysis revealed clusters of high-risk wells within 1 km of perennial crop acreage, underscoring environmental-justice concerns in California’s Central Valley.\nDownload full poster (PDF)"
+  },
+  {
+    "objectID": "projects.html#mapping-nitrate-contamination-in-fresno-county",
+    "href": "projects.html#mapping-nitrate-contamination-in-fresno-county",
+    "title": "Projects",
+    "section": "Mapping Nitrate Contamination in Fresno County",
+    "text": "Mapping Nitrate Contamination in Fresno County\n\nThis final project for Geography 176C explored nitrate contamination in domestic wells in Fresno County, California. Using GIS data, I analyzed how proximity to almond and grape crops related to nitrate levels in groundwater. The project emphasizes environmental justice and agricultural impacts on water quality.\n📄 View Poster"
+  },
+  {
+    "objectID": "projects.html#affective-visualization-of-personal-running-data",
+    "href": "projects.html#affective-visualization-of-personal-running-data",
+    "title": "Projects",
+    "section": "Affective Visualization of Personal Running Data",
+    "text": "Affective Visualization of Personal Running Data\nThis project used personal fitness, sleep, and motivation data to explore how data storytelling can be made emotionally resonant. I created a timeline-style affective visualization (inspired by the Dear Data project) using R and ggplot2."
+  },
+  {
+    "objectID": "projectmedia/GEOG176C_Project.html",
+    "href": "projectmedia/GEOG176C_Project.html",
+    "title": "Geography 176C GIS Final Project",
     "section": "",
-    "text": "Hello! My name is Kate Frankland. and I am an Environmental Science student at UC Santa Barbara. I aim to pursue a career in corporate sustainability, contributing to developing solutions that will create positive environmental impacts while meeting business goals. I am interested in how technology and sustainable practices intersect and aim to further my skills in data analytics and geographic information systems (GIS). Outside of academics, I enjoy surfing and ballet!"
+    "text": "This final project explores nitrate contamination in Fresno County domestic wells. Using GIS data, the analysis investigates relationships between nitrate levels and proximity to almond and grape crops.\n\n\n\n\n\nGIS Project Poster\n\n\nFigure: GIS Project Poster on Nitrate Contamination\nDownload Full Poster PDF"
+  },
+  {
+    "objectID": "projectmedia/GEOG176C_Project.html#overview",
+    "href": "projectmedia/GEOG176C_Project.html#overview",
+    "title": "Geography 176C GIS Final Project",
+    "section": "",
+    "text": "This final project explores nitrate contamination in Fresno County domestic wells. Using GIS data, the analysis investigates relationships between nitrate levels and proximity to almond and grape crops.\n\n\n\n\n\nGIS Project Poster\n\n\nFigure: GIS Project Poster on Nitrate Contamination\nDownload Full Poster PDF"
+  },
+  {
+    "objectID": "projectmedia/tidepooling.html",
+    "href": "projectmedia/tidepooling.html",
+    "title": "Tidepooling",
+    "section": "",
+    "text": "This Project was for my ES40 Class, titled Critical Thinking and Evidence Based Reasoning for the Environment. I created a tidepooling guide for the beaches around UCSB!\n\n\n\nTidepool Guide\n\n\nView Tidepooling PDF\n\n\n\nTidepool Guide"
+  },
+  {
+    "objectID": "projectmedia/GEOG176B_Project.html",
+    "href": "projectmedia/GEOG176B_Project.html",
+    "title": "GEOG176B_Project",
+    "section": "",
+    "text": "This project presentation explores transportation planning in Los Angeles in preparation for the 2025 Olympics.\n\n\n📄 View PDF directly"
+  },
+  {
+    "objectID": "projects.html#affective-data-viz-running-emotion-timeline",
+    "href": "projects.html#affective-data-viz-running-emotion-timeline",
+    "title": "Projects",
+    "section": "{{< fa person-running >}} Affective Data Viz — Running × Emotion Timeline",
+    "text": "{{&lt; fa person-running &gt;}} Affective Data Viz — Running × Emotion Timeline\n\n\n\n\n\n\n\n \n\n\n\nInspired by Dear Data, I tracked a month of runs—pace, distance, sleep, caloric balance, and mood—then mapped each day to color, shape, and line weight on a postcard-sized timeline. The visualization makes training load and emotional swings immediately tangible and was later rebuilt as an interactive Shiny app.\nView interactive version"
+  },
+  {
+    "objectID": "projects.html#interactive-travel-map-20252026",
+    "href": "projects.html#interactive-travel-map-20252026",
+    "title": "Projects",
+    "section": "{{< fa plane-departure >}} Interactive Travel Map 2025–2026",
+    "text": "{{&lt; fa plane-departure &gt;}} Interactive Travel Map 2025–2026\n\n\n\n\n\n\n\n\n\n\n\nUsing {leaflet} in Quarto, I plotted past, current, and upcoming locations—Santa Barbara, Redlands, Brisbane (UQ), and Granada Hills—layered with animated transit arcs and pop-up cards. The map updates from a CSV so I can drop in new destinations without touching code.\nSee the live map"
+  },
+  {
+    "objectID": "GEOG176C_Project.html",
+    "href": "GEOG176C_Project.html",
+    "title": "Geography 176C Project",
+    "section": "",
+    "text": "This project was completed for Geography 176C and explores nitrate contamination in Fresno County, California. Using GIS, I examined how proximity to almond and grape crops relates to groundwater contamination.\n\n\n\nGIS Poster\n\n\n📄 View Full Poster (JPG)"
+  },
+  {
+    "objectID": "tidepooling.html",
+    "href": "tidepooling.html",
+    "title": "Tidepooling Field Guide",
+    "section": "",
+    "text": "This guide was created for my ES40 course to document and share species observations during tidepool explorations around UCSB.\n\n\n\nTidepooling Guide Cover\n\n\n\n\n📄 View Printable PDF"
+  },
+  {
+    "objectID": "ENVS193DSHomework.html",
+    "href": "ENVS193DSHomework.html",
+    "title": "ENVS193 Homework Sample",
+    "section": "",
+    "text": "For this ENVS 193DS assignment, I created an affective visualization using personal data from sleep, running, and calorie tracking. The goal was to turn quantitative data into a story about daily mood and motivation.\n\n\n📄 View Full PDF"
+  },
+  {
+    "objectID": "GEOG176B_Project.html",
+    "href": "GEOG176B_Project.html",
+    "title": "GEOG176B Final Project",
+    "section": "",
+    "text": "In this group project, we analyzed how Los Angeles’ transportation systems are equipped to meet the demands of the upcoming Olympics, with a focus on current infrastructure capacity and the populations it is designed to serve. \n📄 View Presentation Slides (PDF)"
+  },
+  {
+    "objectID": "projects.html#geog-176c-mapping-nitrate-contamination-in-fresno-county",
+    "href": "projects.html#geog-176c-mapping-nitrate-contamination-in-fresno-county",
+    "title": "Projects",
+    "section": "GEOG 176C – Mapping Nitrate Contamination in Fresno County",
+    "text": "GEOG 176C – Mapping Nitrate Contamination in Fresno County\nThis final project for Geography 176C is a spatial analysis of nitrate contamination in Fresno County domestic wells. This project applies kriging, spatial joins, and hot spot analysis to examine environmental justice concerns in relation to cropland proximity."
+  },
+  {
+    "objectID": "projects.html#envs-193ds-affective-data-visualization-running-emotion",
+    "href": "projects.html#envs-193ds-affective-data-visualization-running-emotion",
+    "title": "Projects",
+    "section": "ENVS 193DS – Affective Data Visualization: Running × Emotion",
+    "text": "ENVS 193DS – Affective Data Visualization: Running × Emotion\nA postcard-style timeline visualization inspired by Dear Data. This project visualizes a month of personal running and emotional data, showing how physical metrics relate to mental states."
+  },
+  {
+    "objectID": "projects.html#geog-176b-transportation-planning-for-the-olympics",
+    "href": "projects.html#geog-176b-transportation-planning-for-the-olympics",
+    "title": "Projects",
+    "section": "GEOG 176B – Transportation Planning for the Olympics",
+    "text": "GEOG 176B – Transportation Planning for the Olympics\nThis final project for my Geography 176B course focused on Los Angeles’ transportation system, and if it is capable to handle the incoming population flux for the 2028 Olympics."
+  },
+  {
+    "objectID": "projects.html#es-40-tidepooling-field-guide",
+    "href": "projects.html#es-40-tidepooling-field-guide",
+    "title": "Projects",
+    "section": "ES 40 – Tidepooling Field Guide",
+    "text": "ES 40 – Tidepooling Field Guide\nAn illustrated guide to tidepooling near UCSB, created for my ES 40 course. The guide highlights species identification and how to properly tidepool!"
+  },
+  {
+    "objectID": "projects.html#envs-193ds",
+    "href": "projects.html#envs-193ds",
+    "title": "Projects",
+    "section": "ENVS 193DS",
+    "text": "ENVS 193DS\nThis project visualizes a month of my running data—pace, sleep, caloric intake, and mood—using hand-drawn postcards inspired by Dear Data. Each day is mapped to a visual form that reflects both physical exertion and emotional state."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "resume",
+    "section": "",
+    "text": "You can view or download my resume below:\n\n\nDownload Resume PDF"
   }
 ]
