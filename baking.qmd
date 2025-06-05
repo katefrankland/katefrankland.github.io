@@ -1,0 +1,26 @@
+---
+title: "Baking"
+filters:
+  - lightbox
+lightbox: auto
+freeze: auto
+format:
+  html:
+    toc: false
+---
+
+::: {layout="[[1, 1, 1]]"}
+
+![Chocolate Cake with Vanilla Buttercream!](media/bdaycake.jpg){.lightbox group="baking" description="Chocolate cake with vanilla buttercream!" width="200"}
+
+![Chocolate Chip Cookies!](media/chocolate_chip.jpg){.lightbox group="baking" description="Chocolate Chip Cookies!" width="200"}
+
+![Brown Butter Toffee Chip Cookies!](media/brownbuttertoffee.JPG){.lightbox group="baking" description="Brown Butter Toffee Chip Cookies!" width="200"}
+
+![Pumpkin Muffins and Scones!](media/pumpkin.jpg){.lightbox group="baking" description="Pumpkin Muffins and Scones!" width="200"}
+
+![Smores Cookies!](media/smores.jpg){.lightbox group="baking" description="Smores Cookies!" width="200"}
+
+:::
+
+

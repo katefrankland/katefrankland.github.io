@@ -1,0 +1,11 @@
+---
+title: "Baking"
+format: html
+page-layout: article
+toc: true
+editor: source
+
+---
+
+
+![](media/bdaycake.jpg)
