@@ -1,0 +1,14 @@
+---
+title: "Tidepooling Field Guide"
+format: html
+description: "A field guide created for a marine ecology outing at UCSB."
+toc: true
+---
+
+This guide was created for my ES40 course to document and share species observations during tidepool explorations around UCSB.
+
+![Tidepooling Guide Cover](projectmedia/tidepooling.png){width="100%"}
+
+<iframe src="projectmedia/tidepooling.pdf" width="100%" height="800px" style="border:none;"></iframe>
+
+[📄 View Printable PDF](projectmedia/tidepooling.pdf)
