@@ -10,11 +10,11 @@ website:
         text: Home
       - text: about me
         menu:
-          - text: pets
+          - text: Pets
             href: pets.qmd
-          - text: baking
+          - text: Baking
             href: baking.qmd
-          - text: what's next?
+          - text: What's Next?
             href: whats_next.qmd
       - href: projects.qmd
         text: Projects
