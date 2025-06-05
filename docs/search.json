@@ -60,7 +60,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "On this page, you will find a selection of my past coursework from geography and environmental studies classes, covering topics from GIS and environmental justice to fieldwork and data storytelling.\n\n \n\nGEOG 176C – Mapping Nitrate Contamination in Fresno County\n\n\n\nThis final project for Geography 176C is a spatial analysis of nitrate contamination in Fresno County domestic wells. This project applies kriging, spatial joins, and hot spot analysis to examine environmental justice concerns in relation to cropland proximity.\n\n\n\n\n\nGEOG 176B – Transportation Planning for the Olympics\n\n\n\nThis final project for my Geography 176B course focused on Los Angeles’ transportation system, and if it is capable to handle the incoming population flux for the 2028 Olympics.\n\n\n\n \n\nES 40 – Tidepooling Field Guide\n\n\n\nAn illustrated guide to tidepooling near UCSB, created for my ES 40 course. The guide highlights species identification and how to properly tidepool!"
+    "text": "On this page, you will find a selection of my past coursework from geography and environmental studies classes.\n\n \n\nGEOG 176C – Mapping Nitrate Contamination in Fresno County\n\n\n\nThis final project for Geography 176C is a spatial analysis of nitrate contamination in Fresno County domestic wells. This project applies kriging, spatial joins, and hot spot analysis to examine environmental justice concerns in relation to cropland proximity.\n\n\n\n\n\nGEOG 176B – Transportation Planning for the Olympics\n\n\n\nThis final project for my Geography 176B course focused on Los Angeles’ transportation system, and if it is capable to handle the incoming population flux for the 2028 Olympics.\n\n\n\n \n\nES 40 – Tidepooling Field Guide\n\n\n\nAn illustrated guide to tidepooling near UCSB, created for my ES 40 course. The guide highlights species identification and how to properly tidepool!"
   },
   {
     "objectID": "index.html",
@@ -82,5 +82,12 @@
     "title": "GEOG176B Final Project",
     "section": "",
     "text": "In this group project, we analyzed how Los Angeles’ transportation systems are equipped to meet the demands of the upcoming Olympics, with a focus on current infrastructure capacity and the populations it is designed to serve. \n📄 View Presentation Slides (PDF)"
+  },
+  {
+    "objectID": "ENVS193DS.html",
+    "href": "ENVS193DS.html",
+    "title": "ENVS 193DS – Homework 3: Affective Data Visualization",
+    "section": "",
+    "text": "Open the standalone HTML in a new tab"
   }
 ]
