@@ -1,0 +1,11 @@
+---
+title: "GEOG176B Final Project"
+format: html
+description: "An analysis of Los Angeles transportation planning in advance of the 2025 Olympics."
+toc: true
+---
+
+In this group project, we analyzed how Los Angeles’ transportation systems are equipped to meet the demands of the upcoming Olympics, with a focus on current infrastructure capacity and the populations it is designed to serve.
+<iframe src="projectmedia/176BFinalPresentation.pdf" width="100%" height="800px" style="border:none;"></iframe>
+
+[📄 View Presentation Slides (PDF)](projectmedia/176BFinalPresentation.pdf)
