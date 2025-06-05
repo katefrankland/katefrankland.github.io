@@ -9,7 +9,10 @@ format:
     toc: false
 ---
 
-::: {layout="[[1, 1, 1, 1]]"}
+I love animals and am lucky to have a few in my life! Back home, my family has a beautiful Belgian Malinois-Shepherd mix named Sadie, and a very fluffy cat named Mittens. At my college house, my roommates and I have a cat named Bear—he’s incredibly comforting and always around when we need a little extra love.
+
+
+::: {layout="[[1, 1, 1]]"}
 
 ![Sadie on a walk!](media/sadie_walk.jpg){.lightbox group="pets" description="Sadie on a walk!" width="200"}
 
@@ -20,6 +23,9 @@ format:
 ![Mittens, my family cat!](media/mittens.jpg){.lightbox group="pets" description="Mittens, my family cat!" width="200"}
 
 ![My roommate's cat, Bear!!](media/bear.jpg){.lightbox group="pets" description="My roommate's cat, Bear!!" width="200"}
+
+![My roommate's cat, Bear!!](media/babybear.jpg){.lightbox group="pets" description="My roommate's cat, Bear!!" width="200"}
+
 
 :::
 

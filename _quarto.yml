@@ -8,15 +8,25 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - projects.qmd
-      - Hobbies.qmd
+      - text: about me
+        menu:
+          - text: pets
+            href: pets.qmd
+          - text: baking
+            href: baking.qmd
+          - text: what's next?
+            href: whats_next.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: Hobbies.qmd
+        text: Hobbies
 
 format:
   html:
     theme: lux
     css: styles.css
     toc: true
+    font: URWGothic
     page-layout: full
 
 editor: visual

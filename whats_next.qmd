@@ -4,26 +4,17 @@ format: html
 page-layout: article
 toc: true
 editor: source
-# listing:
-#   contents: whats_next
-#   sort: false
-#   type: grid
-#   image-align: right
-#   max-description-length: 350
-#   date-format: medium
-#   categories: false
 ---
 
 This next year is going to be full of exciting changes! I’m really looking forward to what’s ahead and have created an interactive map showing the places I’ll be traveling to in 2025 and 2026.
 
-Right now, I’m in Santa Barbara for school. This summer (2025), I’ll be moving to Redlands, California for an internship at ESRI. Afterward, I’ll return to Santa Barbara for Fall Quarter, and in February 2026, I’ll head to the University of Queensland in Brisbane, Australia to finish my undergraduate education. I’ll come back to Santa Barbara for graduation, and then hope to spend the next summer job hunting and exploring in New York City — a place I’ve dreamed of living since I was little. It is going to be completely out of my comfort zone, but 'm going to push through this and live life to the fullest while I still can. 
+Right now, I’m in Santa Barbara for school. This summer (2025), I’ll be moving to Redlands, California for an internship at ESRI. Afterward, I’ll return to Santa Barbara for Fall Quarter, and in February 2026, I’ll head to the University of Queensland in Brisbane, Australia to finish my undergraduate education. I’ll come back to Santa Barbara for graduation, and then hope to spend the next summer job hunting and exploring in New York City — a place I’ve dreamed of living since I was little. It is going to be completely out of my comfort zone, but am going to push through this and live life to the fullest while I still can.
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 library(leaflet)
 library(leaflet.extras)
 library(dplyr)
 ```
-
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 #  travel data
@@ -85,6 +76,3 @@ leaflet(travel_points) %>%
 
 
 ```
-
-
-

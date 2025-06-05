@@ -1,5 +1,34 @@
 ---
-title: "projects"
+title: "Projects"
 format: html
+css: style.css
+page-layout: article
+description: "A few of my past course assignments and projects"
+toc: true
 ---
-- Attaching GIS projects to this page 
+
+On this page, you will find a selection of my past coursework from geography and environmental studies classes, covering topics from GIS and environmental justice to fieldwork and data storytelling.
+
+<div class="project-card">
+  <a href="GEOG176C_Project.qmd">
+    <img src="projectmedia/GEOG176C_poster.jpg" alt="Mapping Nitrate Contamination in Fresno County" width="100%" />
+    <h3>GEOG 176C – Mapping Nitrate Contamination in Fresno County</h3>
+  </a>
+  <p>This final project for Geography 176C is a spatial analysis of nitrate contamination in Fresno County domestic wells. This project applies kriging, spatial joins, and hot spot analysis to examine environmental justice concerns in relation to cropland proximity.</p>
+</div>
+
+<div class="project-card">
+  <a href="GEOG176B_Project.qmd">
+    <h3>GEOG 176B – Transportation Planning for the Olympics</h3>
+  </a>
+  <p>This final project for my Geography 176B course focused on Los Angeles’ transportation system, and if it is capable to handle the incoming population flux for the 2028 Olympics.</p>
+</div>
+
+<div class="project-card">
+  <a href="tidepooling.qmd">
+    <img src="projectmedia/tidepooling.png" alt="ES 40 Tidepooling Field Guide" width="100%" />
+    <h3>ES 40 – Tidepooling Field Guide</h3>
+  </a>
+  <p>An illustrated guide to tidepooling near UCSB, created for my ES 40 course. The guide highlights species identification and how to properly tidepool!</p>
+</div>
+

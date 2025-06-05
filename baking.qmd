@@ -9,17 +9,19 @@ format:
     toc: false
 ---
 
+Baking is one of my favorite hobbies; I try to make my house a batch of some type of treat every couple of weeks. Below, I put a picture of each of my roommate's favorite treat that I have made. 
+
 ::: {layout="[[1, 1, 1]]"}
 
-![Chocolate Cake with Vanilla Buttercream!](media/bdaycake.jpg){.lightbox group="baking" description="Chocolate cake with vanilla buttercream!" width="200"}
+![Amanda's Favorite Chocolate Cake with Vanilla Buttercream!](media/bdaycake.jpg){.lightbox group="baking" description="Chocolate cake with vanilla buttercream!" width="200"}
 
-![Chocolate Chip Cookies!](media/chocolate_chip.jpg){.lightbox group="baking" description="Chocolate Chip Cookies!" width="200"}
+![Brenna's Favorite Chocolate Chip Cookies!](media/chocolate_chip.jpg){.lightbox group="baking" description="Chocolate Chip Cookies!" width="200"}
 
-![Brown Butter Toffee Chip Cookies!](media/brownbuttertoffee.JPG){.lightbox group="baking" description="Brown Butter Toffee Chip Cookies!" width="200"}
+![Hilyan's Favorite Brown Butter Toffee Chip Cookies!](media/brownbuttertoffee.JPG){.lightbox group="baking" description="Brown Butter Toffee Chip Cookies!" width="200"}
 
-![Pumpkin Muffins and Scones!](media/pumpkin.jpg){.lightbox group="baking" description="Pumpkin Muffins and Scones!" width="200"}
+![Erica's Favorite Pumpkin Muffins!](media/pumpkin.jpg){.lightbox group="baking" description="Pumpkin Muffins and Scones!" width="200"}
 
-![Smores Cookies!](media/smores.jpg){.lightbox group="baking" description="Smores Cookies!" width="200"}
+![Niyaz's Favorite Smores Cookies!](media/smores.jpg){.lightbox group="baking" description="Smores Cookies!" width="200"}
 
 :::
 
