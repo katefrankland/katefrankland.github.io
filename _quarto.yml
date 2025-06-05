@@ -20,6 +20,8 @@ website:
         text: Projects
       - href: Hobbies.qmd
         text: Hobbies
+      - href: resume.qmd
+        text: Resume
 
 format:
   html:
