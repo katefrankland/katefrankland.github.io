@@ -1,0 +1,29 @@
+---
+title: "pets"
+filters:
+  - lightbox
+lightbox: auto
+freeze: auto
+format:
+  html:
+    toc: false
+---
+
+::: {layout="[[1, 1, 1, 1]]"}
+
+![Sadie on a walk!](media/sadie_walk.jpg){.lightbox group="pets" description="Sadie on a walk!" width="200"}
+
+![Sadie and her favorite toy!](media/sadie_teddy.jpg){.lightbox group="pets" description="Sadie and her favorite toy!" width="200"}
+
+![Sadie stopping to smell some flowers!](media/sadie_flowers.jpg){.lightbox group="pets" description="Sadie stopping to smell some flowers!" width="200"}
+
+![Mittens, my family cat!](media/mittens.jpg){.lightbox group="pets" description="Mittens, my family cat!" width="200"}
+
+![My roommate's cat, Bear!!](media/bear.jpg){.lightbox group="pets" description="My roommate's cat, Bear!!" width="200"}
+
+:::
+
+
+
+
+ 
