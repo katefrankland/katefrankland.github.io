@@ -1,0 +1,12 @@
+---
+title: "Geography 176C Project"
+format: html
+description: "GIS analysis of nitrate contamination in domestic wells near agricultural areas."
+toc: true
+---
+
+This project was completed for Geography 176C and explores nitrate contamination in Fresno County, California. Using GIS, I examined how proximity to almond and grape crops relates to groundwater contamination.
+
+![GIS Poster](projectmedia/GEOG176C_poster.jpg){width="100%"}
+
+[📄 View Full Poster (JPG)](projectmedia/GEOG176C_poster.jpg)
