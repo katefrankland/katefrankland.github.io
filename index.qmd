@@ -19,5 +19,4 @@ about:
 ---
 
 Hello! My name is Kate Frankland, and I’m a student in the Master of Environmental Data Science program at the Bren School at UC Santa Barbara. I also completed my undergraduate education at UCSB, earning a B.S. in Environmental Studies and a B.A. in Geography.
-
 My interests include conservation, sustainability, and using geospatial data to understand environmental challenges. Through my graduate studies, I’m developing my skills in data analytics and geographic information systems (GIS), which I hope to apply to a career in the sustainability sector.
