@@ -11,12 +11,13 @@ about:
   
   links:
     - text: Linkedin
-      href: https://www.linkedin.com/in/kate-frankland-150143331/
+      href: https://www.linkedin.com/in/kate-f-150143331/
     - text: Github
       href: https://github.com/katefrankland
     - text: Email
       href: mailto:katefrankland@ucsb.edu
-
 ---
 
-Hello! My name is Kate Frankland. and I am an Environmental Science student at UC Santa Barbara. I aim to pursue a career in corporate sustainability, contributing to developing solutions that will create positive environmental impacts while meeting business goals. I am interested in how technology and sustainable practices intersect and aim to further my skills in data analytics and geographic information systems (GIS).
+Hello! My name is Kate Frankland, and I’m a student in the Master of Environmental Data Science program at the Bren School at UC Santa Barbara. I also completed my undergraduate education at UCSB, earning a B.S. in Environmental Studies and a B.A. in Geography.
+
+My interests include conservation, sustainability, and using geospatial data to understand environmental challenges. Through my graduate studies, I’m developing my skills in data analytics and geographic information systems (GIS), which I hope to apply to a career in the sustainability sector.
