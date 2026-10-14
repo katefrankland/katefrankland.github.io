@@ -5,7 +5,7 @@ image: media/headshot.jpg
 toc: false
 
 about:
-  template: jolla
+  template: jollagit 
   image-shape: round
   image-width: 17em
   
