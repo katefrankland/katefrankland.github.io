@@ -5,11 +5,8 @@ page-layout: article
 toc: true
 ---
 
-<iframe
-  src="https://katefrankland.github.io/homework3/code/homework_3.html"
-  width="100%"
-  height="900px"
-  style="border:none;">
+<iframe src="https://katefrankland.github.io/homework3/code/homework_3.html" width="100%" height="900px" style="border:none;">
+
 </iframe>
 
 [Open the standalone HTML in a new tab](https://katefrankland.github.io/homework3/code/homework_3.html)
